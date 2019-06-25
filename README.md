@@ -11,6 +11,5 @@ This Project was my first time working with sounds in flutter so it was been Ver
 
 <img src="Screenshot_20190624-183642.jpg" width="250" /> &nbsp;&nbsp;
 
-[![](http://img.youtube.com/vi/KVdEPB5BkQk/0.jpg)](http://www.youtube.com/watch?v=KVdEPB5BkQk "Link For The Video")
+ [Click Here For The Video Demo ](http://www.youtube.com/watch?v=KVdEPB5BkQk)
 
-**In :heart: With Flutter**
